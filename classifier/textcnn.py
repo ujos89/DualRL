@@ -96,6 +96,9 @@ def prepare(paths, index_list=None, is_training=False):
     if index_list is None:
         index_list = []
         for path in paths:
+            
+            ####### MODIFY HERE TO READ DATASET ############
+            
             i = int(re.findall('\d', path)[-1])
             if '.tsf' in path or 'reference' in path:
                 i = 1-i
@@ -152,6 +155,10 @@ if __name__ == "__main__":
     print("Prepare to Save model at: %s" % args.cls_model_save_dir)
     if not os.path.exists(args.cls_model_save_dir):
         os.makedirs(args.cls_model_save_dir)
+
+
+    print(train_x, train_y)
+    exit()
 
     dump_args_to_yaml(args, args.cls_model_save_dir)
 
