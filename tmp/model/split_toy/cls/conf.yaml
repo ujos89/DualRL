@@ -1,0 +1,47 @@
+!!python/object:argparse.Namespace
+batch_size: 16
+cls_model_save_dir: ../tmp/model/split_toy/cls
+dev_data:
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/dev.0
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/dev.1
+emb_dim: 300
+filter_sizes: 1,2,3,4,5
+final_model_save_dir: /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/tmp/model/yelp/nmt_final/
+final_tsf_result_dir: /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/tmp/output/yelp_final
+global_vocab_file: ../data/split_toy/vocab
+keep_prob: 0.5
+learning_rate: 0.0005
+lm_model_save_dir: /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/tmp/model/yelp/lm/
+load_model: false
+log_path: /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/tmp/cls_result_yelp.txt
+min_seq_len: 5
+mode: train
+n_epoch: 10
+n_filters: 128
+nmt_model_save_dir: /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/tmp/model/yelp/nmt_template/
+reference:
+- - /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/references/yelp/reference0.0
+  - /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/references/yelp/reference1.0
+  - /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/references/yelp/reference2.0
+  - /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/references/yelp/reference3.0
+- - /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/references/yelp/reference0.1
+  - /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/references/yelp/reference1.1
+  - /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/references/yelp/reference2.1
+  - /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/references/yelp/reference3.1
+steps_per_checkpoint: 100
+test_data:
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/test.0
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/test.1
+train_data:
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/train.0
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/train.1
+tsf_dev_data:
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/tsf_template/dev.0.tsf
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/tsf_template/dev.1.tsf
+tsf_result_dir: /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/tmp/output/yelp_template
+tsf_test_data:
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/tsf_template/test.0.tsf
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/tsf_template/test.1.tsf
+tsf_train_data:
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/tsf_template/train.0.tsf
+- /Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/data/yelp/tsf_template/train.1.tsf

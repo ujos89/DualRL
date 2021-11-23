@@ -147,57 +147,129 @@ def prepare_csv(path_root, mode):
 
         x, y = [], []
         for t, l in zip(text, label):
-            # t = t.rstrip().split('\\.').split()
-            t = re.split('(.,?!)\s', t)
-            print(t)
+            t = ' '.join(t.split())
+            t = re.split(r'(\W+)', t)
+            while ' ' in t:
+                t.remove(' ')
             
-            # if (t[-1].endswith('.') or t[-1].endswith('!') or t[-1].endswith('?')) and (t[-1]!='.' or t[-1]!='!' or t[-1]!='?'):
-            #     end = t[-1][-1]
-            #     t[-1] = t[-1][:-1]
-            #     print(t[-1], end)
-                
-            #     t.append(end)
+            while '' in t:
+                t.remove('')
                
             if len(t) >= 1:
                 x.append(t)
-                y.append([l])
+                y.append(l)
+        
+        z = sorted(zip(x, y), key=lambda i: len(i[0]))
+        return zip(*z)
+    
+    elif mode == 'val':
+        file_names = [_ for _ in file_names if _.split('.')[1]==mode and _.split('.')[0] in classifier_files]
+        text, label = [], []
+        
+        for file_name in file_names:
+            df = pd.read_csv(os.path.join(path_root, file_name))
 
-        print(x, y)
+            text.extend(list(df['text']))
+            label.extend(list(df['label']))
+
+        x, y = [], []
+        for t, l in zip(text, label):
+            t = ' '.join(t.split())
+            t = re.split(r'(\W+)', t)
+            while ' ' in t:
+                t.remove(' ')
             
-    pass
+            while '' in t:
+                t.remove('')
+               
+            if len(t) >= 1:
+                x.append(t)
+                y.append(l)
+        
+        z = sorted(zip(x, y), key=lambda i: len(i[0]))
+        return zip(*z)
+    
+    elif mode == 'test':
+        file_names = [_ for _ in file_names if _.split('.')[1]==mode and _.split('.')[0] in classifier_files]
+        text, label = [], []
+        
+        for file_name in file_names:
+            df = pd.read_csv(os.path.join(path_root, file_name))
+
+            text.extend(list(df['text']))
+            label.extend(list(df['label']))
+
+        x, y = [], []
+        for t, l in zip(text, label):
+            t = ' '.join(t.split())
+            t = re.split(r'(\W+)', t)
+            while ' ' in t:
+                t.remove(' ')
+            
+            while '' in t:
+                t.remove('')
+               
+            if len(t) >= 1:
+                x.append(t)
+                y.append(l)
+        
+        z = sorted(zip(x, y), key=lambda i: len(i[0]))
+        return zip(*z)
+
+def build_vocab_from_train(train, save_path):
+    
+    vocab = set(["<blank>", "<s>", "</s>", "<unk>"])
+    for t in train:
+        vocab = vocab | set(t)
+    
+    f = open(os.path.join(save_path, 'vocab'), 'w')
+    for _ in list(vocab):
+        f.write(_+'\n')
+    f.close()
+    
 
 if __name__ == "__main__":
     args = load_cls_arguments()
 
-    if args.train_data and args.mode == constants.TRAIN:
-        train_x, train_y = prepare(args.train_data, index_list=[0, 1], is_training=True)
+    # if args.train_data and args.mode == constants.TRAIN:
+    #     train_x, train_y = prepare(args.train_data, index_list=[0, 1], is_training=True)
 
-        if not os.path.isfile(args.global_vocab_file):
-            build_vocab_from_file(args.train_data, args.global_vocab_file)
+    #     if not os.path.isfile(args.global_vocab_file):
+    #         build_vocab_from_file(args.train_data, args.global_vocab_file)
 
+    # vocab, vocab_size = load_vocab_dict(args.global_vocab_file)
+    # print("Vocabulary size", vocab_size)
+
+    # if args.dev_data:
+    #     dev_x, dev_y = prepare(args.dev_data)
+
+    # # if args.test_data and args.mode == constants.EVAL:
+    # if args.test_data:
+    #     test_x, test_y = prepare(args.test_data)
+
+    # print("Prepare to Save model at: %s" % args.cls_model_save_dir)
+    # if not os.path.exists(args.cls_model_save_dir):
+    #     os.makedirs(args.cls_model_save_dir)
+    
+
+    ###########
+    path_root = '../data/split_toy'
+    train_x, train_y = prepare_csv(path_root, 'train')
+    
+    build_vocab_from_train(train_x, path_root)
+    args.global_vocab_file = os.path.join(path_root, 'vocab')
     vocab, vocab_size = load_vocab_dict(args.global_vocab_file)
     print("Vocabulary size", vocab_size)
 
-    if args.dev_data:
-        dev_x, dev_y = prepare(args.dev_data)
+    dev_x, dev_y = prepare_csv(path_root, 'val')
+    test_x, test_y = prepare_csv(path_root, 'test')
 
-    # if args.test_data and args.mode == constants.EVAL:
-    if args.test_data:
-        test_x, test_y = prepare(args.test_data)
+    args.cls_model_save_dir = '../tmp/model/split_toy/cls'
 
     print("Prepare to Save model at: %s" % args.cls_model_save_dir)
     if not os.path.exists(args.cls_model_save_dir):
         os.makedirs(args.cls_model_save_dir)
-
-    ####
-    path_root = '../data/split_toy'
-    prepare_csv(path_root, 'train')
-
-    train_x = train_x[10000:10100]
-    train_y = train_y[10000:10100]
-    print(train_x, train_y)
-    exit()
-    ####
+    
 
     dump_args_to_yaml(args, args.cls_model_save_dir)
 
@@ -223,7 +295,6 @@ if __name__ == "__main__":
                         print("--------------------Epoch %d--------------------" % epoch)
 
                         for batch in batches:
-                            print(batch)
                             step_loss, _ = sess.run([model.loss, model.optimizer],
                                                     feed_dict={model.x: batch["x"],
                                                                model.y: batch["y"],
