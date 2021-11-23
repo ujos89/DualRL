@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/tmp/model/yelp/cls/"
+all_model_checkpoint_paths: "/Users/kangpilgu/Desktop/TextStyleTransfer/DualRL/tmp/model/yelp/cls/"

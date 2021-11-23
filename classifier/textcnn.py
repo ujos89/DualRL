@@ -5,6 +5,8 @@ import re
 import time
 import sys
 sys.path.append('..')
+import pandas as pd
+
 from model import TextCNN
 from options import *
 from utils import constants
@@ -96,9 +98,6 @@ def prepare(paths, index_list=None, is_training=False):
     if index_list is None:
         index_list = []
         for path in paths:
-            
-            ####### MODIFY HERE TO READ DATASET ############
-            
             i = int(re.findall('\d', path)[-1])
             if '.tsf' in path or 'reference' in path:
                 i = 1-i
@@ -132,6 +131,40 @@ def evaluate_file(sess, args, vocab, eval_model, files, index_list, print_logs=T
     acc, _ = evaluate(sess, args, vocab, eval_model, x, y, print_logs)
     return acc
 
+def prepare_csv(path_root, mode):
+    file_names = [_ for _ in os.listdir(path_root) if _.endswith('.csv')]
+    classifier_files = ['neg', 'neu', 'pos']
+    
+    if mode == 'train':
+        file_names = [_ for _ in file_names if _.split('.')[1]==mode and _.split('.')[0] in classifier_files]
+        text, label = [], []
+        
+        for file_name in file_names:
+            df = pd.read_csv(os.path.join(path_root, file_name))
+
+            text.extend(list(df['text']))
+            label.extend(list(df['label']))
+
+        x, y = [], []
+        for t, l in zip(text, label):
+            # t = t.rstrip().split('\\.').split()
+            t = re.split('(.,?!)\s', t)
+            print(t)
+            
+            # if (t[-1].endswith('.') or t[-1].endswith('!') or t[-1].endswith('?')) and (t[-1]!='.' or t[-1]!='!' or t[-1]!='?'):
+            #     end = t[-1][-1]
+            #     t[-1] = t[-1][:-1]
+            #     print(t[-1], end)
+                
+            #     t.append(end)
+               
+            if len(t) >= 1:
+                x.append(t)
+                y.append([l])
+
+        print(x, y)
+            
+    pass
 
 if __name__ == "__main__":
     args = load_cls_arguments()
@@ -156,9 +189,15 @@ if __name__ == "__main__":
     if not os.path.exists(args.cls_model_save_dir):
         os.makedirs(args.cls_model_save_dir)
 
+    ####
+    path_root = '../data/split_toy'
+    prepare_csv(path_root, 'train')
 
+    train_x = train_x[10000:10100]
+    train_y = train_y[10000:10100]
     print(train_x, train_y)
     exit()
+    ####
 
     dump_args_to_yaml(args, args.cls_model_save_dir)
 
@@ -184,6 +223,7 @@ if __name__ == "__main__":
                         print("--------------------Epoch %d--------------------" % epoch)
 
                         for batch in batches:
+                            print(batch)
                             step_loss, _ = sess.run([model.loss, model.optimizer],
                                                     feed_dict={model.x: batch["x"],
                                                                model.y: batch["y"],

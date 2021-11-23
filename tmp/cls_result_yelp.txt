@@ -1,0 +1,1000 @@
+so basically tasted watered down .	0.240	True
+but it probably sucks too !	0.355	True
+the decor was seriously lacking .	0.241	True
+lost a long time customer !	0.379	True
+this is a horrible venue .	0.166	True
+not even real brown sauce .	0.235	True
+zero complaints with his work .	0.242	True
+prices are just plain retail .	0.199	True
+the building itself looks abandoned .	0.230	True
+no call , no nothing .	0.111	True
+the evening started out slow .	0.197	True
+the queen bed was horrible !	0.286	True
+this place is just ok .	0.168	True
+nope , way way worse .	0.193	True
+is zero stars an option ?	0.405	True
+but their inventory was questionable !	0.355	True
+do n't waste the trip .	0.181	True
+the restroom was a mess .	0.247	True
+it looks old and outdated .	0.223	True
+service was just as disappointing .	0.151	True
+it did n't get finished .	0.221	True
+even the water tasted horrible .	0.165	True
+sounds good does n't it ?	0.406	True
+the server was n't buying .	0.230	True
+actually , just keep walking .	0.212	True
+not so much these days .	0.195	True
+this is a terrible college .	0.174	True
+avoid if at all possible .	0.248	True
+pathetic place , worst food .	0.228	True
+i tried to no avail .	0.118	True
+sketchy sketchy sketchy pizza delivery !	0.349	True
+desert followed but nothing special .	0.157	True
+god i love pei wei .	0.233	False
+excellent knowledgeable dentist and staff !	0.353	False
+these two women are professionals .	0.243	False
+we were both so impressed .	0.162	False
+really enjoyed the beautiful range .	0.197	False
+i will definitely return often !	0.360	False
+they have delicious soups everyday .	0.232	False
+the food here is delicious .	0.222	False
+came here with my family .	0.195	False
+beautiful scenery and friend staff .	0.230	False
+it was very good to !	0.260	False
+beautiful decoration and great service .	0.155	False
+this place is super yummy !	0.283	False
+it was well worth it .	0.193	False
+i love the pork tacos .	0.208	False
+everyone is friendly and knowledgeable .	0.204	False
+enjoyed the dolly a lot .	0.241	False
+great staff and wonderful food .	0.227	False
+it is an international delight .	0.249	False
+great food , great decor !	0.366	False
+the food is always fresh .	0.224	False
+it 's good solid food .	0.236	False
+we 'll certainly be back !	0.358	False
+i love their flavored coffee .	0.244	False
+i got the tamale sampler .	0.183	False
+great service by the staff .	0.190	False
+a great museum to visit .	0.205	False
+ambiance and setting were superb .	0.233	False
+i love the cornbread appetizer .	0.208	False
+service was wonderful to match !	0.322	False
+great food and awesome service !	0.241	False
+this place still kicks ass .	0.235	False
+the bbq salmon was good .	0.190	False
+omg carlsbad tavern is awesome !	0.336	False
+fish tacos were pretty good .	0.195	False
+they are all very friendly .	0.176	False
+quality of food is fantastic .	0.238	False
+the best bar in town .	0.263	False
+green chile chimis are fantastic .	0.250	False
+thanks for the perfect repair .	0.207	False
+casual atmosphere , upscale food .	0.246	False
+portions n prices were great !	0.333	False
+my daughter received great care .	0.205	False
+even the sides were great .	0.230	False
+corn bread was also good !	0.316	False
+food super and well priced .	0.215	False
+they loved the rock climb .	0.202	False
+they go above and beyond !	0.334	False
+all in all pretty good !	0.337	False
+keep up the amazing service !	0.226	False
+ron is still the greatest .	0.175	False
+best green corn tamales around .	0.247	False
+great prices , great selection .	0.233	False
+very good food and service !	0.236	False
+really good service and food .	0.203	False
+their sandwiches were really tasty .	0.162	False
+it was a great experience !	0.381	False
+customer service was great there .	0.240	False
+most delicious authentic chinese food !	0.353	False
+i highly recommend this shop .	0.223	False
+the food all looked great .	0.245	False
+the menudo here is perfect .	0.230	False
+the grilled artichokes are wonderful !	0.355	False
+very friendly staff and manager .	0.192	False
+great quality , great service .	0.168	False
+i highly recommend this bakery !	0.345	False
+homemade tortillas are so good !	0.259	False
+amazing food , great service .	0.166	False
+there was only meat and bread .	0.242	True
+she was not happy being there .	0.199	True
+the sales people here are terrible .	0.176	True
+salsa is not hot or good .	0.160	True
+owner : a very rude man .	0.154	True
+what about the time i wasted ?	0.407	True
+overall it was a miserable evening .	0.240	True
+the woman did n't even apologize .	0.224	True
+the espresso was way too hot .	0.216	True
+they wo n't tell you though .	0.233	True
+i wo n't be ordering again .	0.233	True
+she did not apologize or anything .	0.197	True
+the wonton was seriously lacking filling .	0.256	True
+the new management team is horrible !	0.260	True
+was n't busy , no biggie .	0.141	True
+the bathroom area is nothing special .	0.163	True
+so i brought my business elsewhere .	0.216	True
+so disappointing from an old favorite .	0.252	True
+the sandwich was not that great .	0.186	True
+the man did not stop her .	0.180	True
+were we irritating her or something ?	0.461	True
+nothing that special about this place .	0.218	True
+razz 's failed on every occasion .	0.221	True
+second time , not so good .	0.132	True
+what the hell are you doing ?	0.409	True
+not so great food and service .	0.147	True
+management does not seem to care .	0.166	True
+it is not really brown rice .	0.150	True
+did n't even get a response .	0.245	True
+we will not be coming back .	0.199	True
+save your money & your patience .	0.225	True
+i did n't even eat it .	0.206	True
+we will spend our money elsewhere .	0.221	True
+horrible , horrible , horrible service !	0.150	True
+the food is not that authentic .	0.170	True
+unfortunately , it is the worst .	0.148	True
+the beer was nice and cold !	0.360	True
+the problem is nothing was good .	0.162	True
+horrible job on nails and toes .	0.220	True
+not personalized or warm at all .	0.230	True
+an old dude did my pedicure .	0.215	True
+good drinks , and good company .	0.191	False
+everything is fresh and so delicious !	0.266	False
+the biscuits and gravy were good .	0.190	False
+perfect spot to shop for gift !	0.328	False
+she did the most amazing job .	0.215	False
+charlie was clean neat and professional .	0.220	False
+the service has always been wonderful .	0.257	False
+also , the food is great !	0.319	False
+the food is delicious and plentiful .	0.226	False
+the message therapist is awesome also .	0.204	False
+i love their star design collection .	0.239	False
+staff : very cute and friendly .	0.191	False
+they are spacious with modest decor .	0.233	False
+great kebab dishes and good service .	0.144	False
+pricing is both affordable and reasonable .	0.224	False
+always good after the river too .	0.205	False
+this is pretty darn good pizza !	0.335	False
+staff and the ride were terrific .	0.204	False
+this place reminds me of home !	0.342	False
+i will definitely go here again !	0.352	False
+so far , great customer service .	0.160	False
+rick is a seriously cool guy !	0.365	False
+food here is also so good !	0.249	False
+everyone was extremely nice and professional .	0.210	False
+thank you ladies for being awesome !	0.352	False
+this place has some great food .	0.236	False
+and the seafood enchiladas were great !	0.341	False
+the service is friendly and attentive .	0.203	False
+well worth searching out this gem .	0.228	False
+even their steamed veggies are amazing .	0.245	False
+mustard beef ribs are a must .	0.249	False
+i rate the experience as followed .	0.221	False
+bartender made a great dirty martini !	0.373	False
+food is very fresh and amazing !	0.289	False
+russ was a well qualified tech .	0.229	False
+the marinara sauce is so flavorful .	0.174	False
+they are incredibly nice and accommodating .	0.253	False
+thank you for a fabulous evening !	0.366	False
+they were very friendly and apologetic .	0.175	False
+fun place to go drink beer .	0.212	False
+he was both professional and courteous .	0.227	False
+love the vibe of this place !	0.362	False
+the grounds are always very clean .	0.160	False
+suzanne and her staff were excellent !	0.341	False
+fast , friendly and honest service .	0.136	False
+decent selection of meats and cheeses .	0.247	False
+everything they serve there is wonderful .	0.225	False
+but it 's worth seeking out .	0.211	False
+great lunch specials and awesome staff .	0.230	False
+and have enjoyed every last bite .	0.230	False
+always a fun and friendly atmosphere .	0.219	False
+definitely something i will have again !	0.345	False
+loved the menu and the drinks .	0.175	False
+their small calzone is really gigantic !	0.241	False
+the food is also very good .	0.138	False
+i highly recommend the ahi tuna .	0.216	False
+cooked to perfection and very flavorful .	0.160	False
+a great place to watch sports !	0.336	False
+this place is edgy and fun .	0.239	False
+very busy but very good service .	0.117	False
+their staff is knowledgeable and informative .	0.232	False
+the carne asada burrito is awesome !	0.329	False
+this is the perfect date night .	0.205	False
+nice selection of games to play .	0.219	False
+wide spectrum of ages and races .	0.254	False
+at no cost - great service !	0.225	False
+plenty to eat and amazing flavor .	0.213	False
+good place for a romantic dinner !	0.357	False
+i highly recommend impact auto body .	0.238	False
+love their food and their passion .	0.240	False
+reasonable price , bottom line guaranteed .	0.243	False
+the octopus sashimi is my favorite !	0.282	False
+i was pleased with their service .	0.163	False
+they are so fresh and yummy .	0.200	False
+the salads were fresh and crispy .	0.219	False
+she said `` yes , sorry . ''	0.250	True
+i was very sick the night after .	0.205	True
+so far i 'm not really impressed .	0.124	True
+this spot was my favorite indian restaurant .	0.234	True
+the salads are ok , nothing special .	0.173	True
+the garlic bread was bland and cold .	0.235	True
+gammage itself however is not so amazing .	0.138	True
+who knows , it might have been .	0.229	True
+the beer sauce is lackluster at best .	0.215	True
+at this location the service was terrible .	0.160	True
+and the cleaning is way over priced .	0.205	True
+meanwhile i 'm waiting for an answer .	0.245	True
+oh , i should not have asked .	0.173	True
+i will never visit the salon again .	0.210	True
+i would n't go back there again .	0.236	True
+just terrible is all i can say .	0.223	True
+i mean that 's been my experience !	0.358	True
+its also not a very clean park .	0.173	True
+he did not return my call either .	0.189	True
+this one is not on the ball .	0.162	True
+not sure and i do n't care !	0.364	True
+the dipping sauce was too sweet too .	0.234	True
+liar , liar , pants on fire .	0.239	True
+this is an old worn out hotel .	0.252	True
+the mechanics are very amateur as usual .	0.188	True
+this place is beyond a shit hole .	0.228	True
+it was over fried and very hard .	0.159	True
+i 'm still craving my drunken noodles !	0.329	True
+these days the quality is pretty lousy .	0.195	True
+maybe they were having a bad night ?	0.419	True
+so , it went in the trash .	0.191	True
+i was very disappointed with this place .	0.192	True
+so you are n't my problem . ''	0.197	True
+the staff was nowhere to be found .	0.213	True
+worst customer service i have ever had .	0.231	True
+this branch is getting worse and worse .	0.236	True
+there was no personality to our server .	0.189	True
+maria the manager is a horrible person .	0.170	True
+absolutely ridiculous stay away from this place .	0.243	True
+oh well , who cares ... right ?	0.390	True
+no courtesy and their food is pathetic .	0.214	True
+the door would n't open at all .	0.231	True
+my jack and coke was seriously lacking .	0.245	True
+there are much better places for breakfast .	0.236	True
+anything they say , ask in writing .	0.246	True
+no massage with my manicure or pedicure .	0.220	True
+however , this experience went pretty smooth .	0.236	True
+would have rated lower if i could .	0.256	True
+half of my head was over processed .	0.237	True
+i highly recommend e & m painting .	0.249	False
+always fresh , fat , and delicious .	0.235	False
+definitely a place to keep in mind .	0.238	False
+the soup is absolutely to die for .	0.228	False
+their lunch special is a great value !	0.346	False
+our experience with this business was positive .	0.239	False
+and the fettuccine alfredo is absolutely scrumptious !	0.328	False
+i love their fresh juices as well .	0.217	False
+oj and jeremy did a great job !	0.347	False
+tires , alignment , brakes and more .	0.248	False
+their enchilada sauce perfectly complemented this dish .	0.228	False
+this is my go to neighborhood place .	0.204	False
+giving an extra star for customer service .	0.166	False
+go here , you will love it .	0.200	False
+one of my regular spots in scottsdale .	0.237	False
+it was just so cute and quaint !	0.296	False
+overall really good quality food and service .	0.155	False
+also matt was super cool and helpful .	0.215	False
+but it is definitely worth the wait .	0.178	False
+this is by far my favorite pizza .	0.229	False
+pizza was cooked to perfection and fast !	0.343	False
+plus my sparkling wine flights were delish !	0.358	False
+pricy but the cheese pies are delicious !	0.297	False
+excellent combination of flavors , very unique .	0.175	False
+my meal was very satisfying and flavorful .	0.205	False
+other than that , it 's great !	0.358	False
+extremely attentive and genuinely a good person .	0.225	False
+they are always doing a good job .	0.226	False
+outstanding persian food not to mention service .	0.130	False
+the wine list was the best part .	0.214	False
+that comes with the smaller location though .	0.216	False
+a steak , shrimp and an enchilada .	0.242	False
+its quiet and nice people are here .	0.225	False
+i 'll definitely go back here again .	0.240	False
+everyone is always super friendly and helpful .	0.192	False
+very nice location for weekend volleyball tournaments !	0.360	False
+friendly owners and staff and delicious food !	0.334	False
+they will even deliver to the school !	0.260	False
+we love to come as a family .	0.231	False
+they were extremely friendly and reasonably priced .	0.204	False
+his humor makes a routine visit entertaining .	0.246	False
+heck , even the pizza is decent .	0.208	False
+the crew was very friendly and accommodating .	0.181	False
+best chicken parmesan i have ever had .	0.237	False
+the chips and guacamole were excellent too !	0.350	False
+i definitely recommend this place to others !	0.311	False
+super good deals and very friendly staff .	0.180	False
+best take out or eat in sushi !	0.362	False
+dr. hall is so kind and gentle .	0.213	False
+the crispy mango fish was very tasty .	0.162	False
+blue corn tacos with chicken were excellent .	0.230	False
+it will stay with you all day .	0.235	False
+the hummus is ridiculously creamy and delicious .	0.223	False
+just left and took it off the bill .	0.184	True
+the associates program is no longer an option .	0.188	True
+i left hungry and unsatisfied , never again .	0.240	True
+the only saving grace was the black beans .	0.218	True
+my groupon is only for the two windows .	0.226	True
+we will not be using this location again .	0.198	True
+this place is a terrible place to live !	0.284	True
+but was very disappointed with what actually arrived .	0.201	True
+it smelled and tasted like yesterday 's oil .	0.238	True
+we 've tried the cream pancakes as well .	0.224	True
+she could not and would not explain herself .	0.183	True
+think twice -- this place is a dump .	0.220	True
+i 'm not one of the corn people .	0.207	True
+service was a little slow to begin with .	0.222	True
+i have to say i was truly disappointed .	0.185	True
+there are no smiles and no customer service .	0.110	True
+exhibit c : no more student services peeps .	0.181	True
+as for the food , never had it .	0.196	True
+it is also quite expensive for my taste .	0.215	True
+it shows that this restaurant has no class .	0.131	True
+stay away , and go to cheesecake instead .	0.217	True
+but let this story begin at noon today .	0.234	True
+seriously though , i have never shopped here .	0.221	True
+do not sign a lease with these people .	0.218	True
+had to returned one entree because too cold .	0.233	True
+the beef taco was good but nothing special .	0.155	True
+i tried to call repeatedly with no response .	0.125	True
+the tow package is not an issue either .	0.194	True
+i 'll keep looking for a different salon .	0.254	True
+no stars is what in want to give .	0.208	True
+the equipment is so old and looks dirty .	0.208	True
+i 'm not willing to take the chance .	0.176	True
+bottom line they over promise and under deliver .	0.228	True
+management no longer cares about the golf experience .	0.209	True
+i should have stuck with sun chinese dining .	0.228	True
+i do not recommend anyone to this starbucks .	0.210	True
+but it was disgusting and hot in there .	0.237	True
+the overall prices are not competitive with frys .	0.193	True
+and management does n't do anything about it .	0.229	True
+crab cakes , salt , no other flavor .	0.175	True
+unfortunately , the tour guides are not experts .	0.163	True
+what a waste of my time and theirs .	0.240	True
+sad what has happened to this sandwich shop .	0.214	True
+they can thank you for the low rating .	0.218	True
+i did n't know ra was a chain .	0.252	True
+i guess even great restaurants have bad days .	0.196	True
+i will never purchase another lv bag again .	0.228	True
+we did n't leave with anything that day .	0.243	True
+you can not judge people based on appearance .	0.221	True
+i would never reccomend anyone to live here .	0.207	True
+had to wait a month to get in .	0.208	True
+it was my last weekend visiting my folks .	0.208	True
+tonight i lost all respect for this company .	0.207	True
+i looked around and there were still customers .	0.230	True
+went into this location to drop it off .	0.218	True
+the surly older waitress was a huge bummer .	0.188	True
+the green enchiladas were ok but not great .	0.146	True
+perhaps bread should be offered at no charge .	0.141	True
+did n't seem to care about their job .	0.220	True
+the drinks were affordable and a good pour .	0.223	False
+i 'd definitely recommend giving them a try .	0.259	False
+you 'll see why once you get there .	0.238	False
+and every experience has been a positive one .	0.261	False
+she was spot on as they were delicious .	0.220	False
+nice people , prompt service and clearly expert .	0.233	False
+even in summer , they have decent patronage .	0.248	False
+the wait staff is extremely attractive and friendly !	0.300	False
+the chicken chimi i had was absolutely fantastic !	0.348	False
+the best mexican food in the phoenix area .	0.217	False
+prices are a tad high but worth it .	0.193	False
+the escargot was delicious , and seasoned perfectly .	0.228	False
+love the afternoon - tea at the phoenician .	0.179	False
+very pleased with service and quality of work .	0.232	False
+oh sushi kee , how i love thee !	0.322	False
+it 's a big bowl of sweet happiness .	0.265	False
+one of my favorite chinese place to eat !	0.320	False
+i loved the ribs more than the chicken .	0.189	False
+for a local chain this place is great !	0.326	False
+that 's a rare find in a business .	0.267	False
+thank you amanda , i will be back !	0.352	False
+will bring all my vehicles back for sure !	0.348	False
+cleaned my plate , perfect amount of food .	0.249	False
+and again , the food is incredibly delicious !	0.329	False
+our waitress was the best , very accommodating .	0.178	False
+ordered the huevos rancheros and it was delicious !	0.344	False
+the customer service in this location is great !	0.322	False
+i love italian and i eat here often .	0.222	False
+wonderful staff , wonderful food , excellent prices .	0.238	False
+so happy with my decision to go here .	0.200	False
+very throwback atmosphere ; vintage ice cream parlor .	0.237	False
+service was great and food was even better .	0.250	False
+i had the best pork belly here ever !	0.316	False
+you can tell how fresh the ingredients are .	0.195	False
+this is the best seafood joint in town .	0.227	False
+fun to watch the kitchen in rush hour .	0.232	False
+the food is great here and very authentic .	0.151	False
+this place offers solid , delicious take out .	0.244	False
+the california burrito was also a great burrito .	0.256	False
+love this place and will keep coming back .	0.250	False
+will definitely go back and recommend to friends .	0.204	False
+she was so patient , kind and understanding .	0.233	False
+i loved it and will definitely be back !	0.363	False
+i definitely will return to the roaring fork !	0.297	False
+the green chile mac and cheese was incredible !	0.346	False
+the prices were the best and worth it .	0.190	False
+this was the best i have ever had !	0.335	False
+i ca n't believe how inconsiderate this pharmacy is .	0.205	True
+so i asked for the card to be refunded .	0.221	True
+you wo n't find a better selection in scottsdale .	0.243	True
+do not go to this practice they are horrible !	0.278	True
+other than that , food here is pretty gross .	0.200	True
+you 'll have zero appetite after the first bite .	0.207	True
+but it may not actually be in stock anyway .	0.217	True
+i 've never had a worse experience than this !	0.370	True
+no , i 'm not at a scottsdale club .	0.214	True
+if i could give zero stars i def would .	0.215	True
+i wish i could give less than one star .	0.261	True
+if i could give less stars , i would .	0.229	True
+i expected so much better from this ny staple .	0.230	True
+they make a bad name for used car dealers .	0.235	True
+just a frozen patty cooked like a home one .	0.248	True
+this is the reason i will never go back .	0.218	True
+this room that he found also reeked of smoke !	0.378	True
+tzatziki sauce had way too much dill in it .	0.204	True
+it does not take that long to cook sliders !	0.303	True
+tasted really old , i could n't believe it .	0.187	True
+as soon as they delivered i was like ugh .	0.236	True
+but i darn sure could have cooked this one .	0.255	True
+did they not have a fountain machine on site ?	0.377	True
+his egg sandwiches stink like feet and are slimy .	0.239	True
+it is the absolute worse place in the valley .	0.188	True
+so he can charge a bloody fortune for them .	0.222	True
+the food here is bland and boring and bad .	0.177	True
+you can not pay me to ever shop here !	0.278	True
+when it came we should have sent it back .	0.243	True
+this place smelt like old urine for some reason .	0.239	True
+i dont know why i was expecting anything different .	0.238	True
+very disappointed and would stay clear of this place .	0.234	True
+the bread was soggy and the dip was inedible .	0.216	True
+this place is a shit hole with shit service .	0.157	True
+went back in for adjustment , realized still incorrect .	0.225	True
+he could n't actually read her pressure , though .	0.243	True
+absolutely terrible , do not order from this place .	0.215	True
+ate kicked ass , marquee , not so much .	0.161	True
+when it finally came out , it was bad .	0.197	True
+talk about false advertising so call before you go !	0.336	True
+but the customer service ruins it all for me .	0.222	True
+she does n't say anything and just walks away .	0.207	True
+and for this reason , i wo n't return .	0.227	True
+is that a good thing or a bad thing ?	0.409	True
+first , the bartender was an a -- hole .	0.239	True
+i 'm not a fan of huge chain restaurants .	0.206	True
+the thai basil pasta came out lukewarm and spicy .	0.241	True
+prime rib was fatty and not cooked per requested .	0.200	True
+the place has obviously gone downhill over the years .	0.178	True
+this is the worst panda express location there is !	0.323	True
+we both found it overcooked -- and no seasonings .	0.129	True
+it 's just too expensive for what you get .	0.221	True
+too bad too because they brew an outstanding beer .	0.256	True
+the woman who works in the deli is horrible .	0.163	True
+incredible , low price specials and the occasional groupon .	0.211	True
+they 're nowhere near any fight that breaks out .	0.226	True
+she was getting pissed , and so were we .	0.202	True
+ra sushi , you are so blah to me .	0.190	True
+otherwise a great experience and we will go again .	0.233	False
+oh i got my band geek back on now !	0.340	False
+great food recommendations steak and tuna were both great .	0.230	False
+i actually can wait to come back next year !	0.346	False
+portions are very generous and food is fantastically flavorful .	0.205	False
+their front line is so much cheaper than petsmart !	0.315	False
+seems pretty high compared to every other thai place .	0.232	False
+i had a spanish omelet was huge and delicious .	0.211	False
+it is consistent and the staff is always friendly .	0.209	False
+it is also fun to sit at the bar .	0.192	False
+the people at sonora were very good to me .	0.186	False
+food good , a plate went a long way .	0.227	False
+the service was great and would gladly go back .	0.238	False
+it is the most authentic thai in the valley .	0.195	False
+the atmosphere is at the sugar bowl is fun .	0.225	False
+with that being said , i enjoyed the food .	0.197	False
+all of the food that i had was excellent .	0.225	False
+the staff made us feel very welcome and comfortable .	0.204	False
+the guys here are sooo incredibly nice and helpful .	0.240	False
+great place to have some fresh and delicious donuts .	0.219	False
+i always have a great dish here to eat .	0.212	False
+its not cheap but you get good value here .	0.182	False
+good food , great prices on wings on tuesdays .	0.239	False
+the place was busy but the service was excellent !	0.295	False
+biscuits and gravy are a great breakfast item too .	0.228	False
+my husband and i enjoyed our 3rd anniversary here .	0.219	False
+always order the tzatziki sauce with everything you get !	0.317	False
+they also are the best price in the area .	0.192	False
+had dinner here last night and it was great .	0.231	False
+sit at the bar and eat the small plates .	0.202	False
+my dr pepper ribs were excellent and very tender .	0.161	False
+it 's hot , cooked perfectly , and delicious !	0.347	False
+very helpful , hospitable , knowledgeable , and informative .	0.238	False
+food is always amazing no matter what i order .	0.200	False
+good selection of parts and accessories and reasonable prices .	0.227	False
+all of my clothes are returned in sparkling condition !	0.344	False
+i 'm a regular drive-through customer at this location .	0.237	False
+the staff are very friendly and on the ball .	0.174	False
+love my cut and color and sage is amazing !	0.335	False
+the owner knows us and treats us very well !	0.281	False
+they have a lot of choices for sushi lovers !	0.362	False
+definitely disappointed that i could not use my birthday gift !	0.305	True
+the charge did include miso soup and a small salad .	0.240	True
+staffed primarily by teenagers that do n't understand customer service .	0.155	True
+blue cheese dressing was n't the best by any means .	0.234	True
+the store is dumpy looking and management needs to change .	0.212	True
+i skipped eating and we went back to the beer .	0.177	True
+i asked for thai hot and received very little spice .	0.175	True
+i just left this car wash and was very unsatisfied !	0.257	True
+then he proceeded to tell me how to fix it .	0.181	True
+executive chefs would walk by not even saying good morning .	0.200	True
+i love the food ... however service here is horrible .	0.167	True
+it 's always busy and the restaurant is very dirty .	0.152	True
+so who do i call to get my money back .	0.214	True
+i 'm stuck in a lease otherwise i would move .	0.244	True
+when i was finally there , i was very disappointed .	0.128	True
+so sad but i am not going back any more .	0.217	True
+just do n't bother ordering anything if you 're seated .	0.238	True
+i replied , '' um ... no i 'm cool .	0.164	True
+the texture of the meat just looked and tasted wrong .	0.215	True
+this was by far the rudest person i spoke with .	0.238	True
+however , the tech said nothing to me about this .	0.201	True
+i ordered garlic bread and fettuccine alfredo pasta with vegetables .	0.230	True
+we 've been to this long established restaurant many times .	0.222	True
+when i arrived , no one was at the desk .	0.171	True
+the service is mediocre and the restaurant is just average .	0.162	True
+however , everyone else paid after their nails were completed .	0.240	True
+overall , i do n't enjoy the place very much .	0.157	True
+this place has pissed me off for the last time .	0.221	True
+either way i would never recommend buying from camping world .	0.227	True
+i went to sit down and wait for my order .	0.205	True
+i think it 's terrible when employees act that way .	0.202	True
+now the food : not horrible , but below average .	0.175	True
+the chow mein was very mushy and had weird texture .	0.194	True
+two hours of my life i can never get back .	0.238	True
+the lady at the front desk was not very friendly .	0.139	True
+the only thing i was offered was a free dessert .	0.245	True
+i suppose id forgotten how bland their offerings really are .	0.167	True
+i just walked out , called the manager to complain .	0.188	True
+my fault for not looking more closely , i guess .	0.211	True
+uneven pieces and falling apart -- i paid for that .	0.244	True
+great food but horrible staff and very very rude workers !	0.222	True
+the ceiling air conditioner in the hallway is very loud .	0.160	True
+i may just post pictures to prove their shoddy work .	0.235	True
+it is way overpriced ( compare to what they serve !	0.339	True
+firstly , their fees are generally higher than other places .	0.253	True
+this is a far cry from real new mexican cuisine .	0.242	True
+bad service in these areas and really ruined our visit .	0.205	True
+she just grabbed a couple empty dishes and walked off .	0.224	True
+university is also almost as bad as living on apache .	0.202	True
+i called at 6:30 and got the complete brush off .	0.201	True
+i do not like the size of the dance floor .	0.201	True
+their cheese i 'm certain was of the string variety .	0.231	True
+like it 's been in a fridge for a week .	0.245	True
+they do not stock some of the most common parts .	0.225	True
+i will be going back and enjoying this great place !	0.344	False
+my husband got a ruben sandwich , he loved it .	0.206	False
+i signed up for their email and got a coupon .	0.224	False
+they were so helpful , kind , and reasonably priced .	0.229	False
+friendly folks , delicious authentic bagels , tasty cream cheese .	0.218	False
+everyone that i spoke with was very helpful and kind .	0.209	False
+the variety of sushi rolls makes for a good eating .	0.228	False
+very good brunch , was impressed with selection and quality .	0.229	False
+the menu is very simple , healthy , and tasty .	0.208	False
+i love this place , the service is always great !	0.300	False
+the atmosphere was fun and the staff treats you well .	0.230	False
+they have a fantastic selection and a very knowledgeable staff .	0.214	False
+the lunch and dinner items are very good as well .	0.203	False
+thanks for making our special night an event to remember .	0.225	False
+friendly and welcoming with a fun atmosphere and terrific food .	0.228	False
+they are professional , thorough and attentive to our needs .	0.231	False
+all around great place to grab a drink or two .	0.251	False
+the patio is a fun place to sit at 7pm .	0.228	False
+i got a bagel breakfast sandwich and it was delicious !	0.352	False
+the service was amazing and the staff was very friendly .	0.161	False
+these guys are top notch , honest and very reasonable .	0.163	False
+jennifer is great and she really makes skin care affordable .	0.219	False
+everything we 've ever ordered here has been great tasting .	0.261	False
+love the mole sauce , chips are nice and thick .	0.234	False
+the meatloaf ( when they have it ) is amazing .	0.237	False
+i would recommend dentistry of old town scottsdale to everyone .	0.213	False
+the best deals in the store are on these racks .	0.228	False
+they have an excellent selection of combos to choose from .	0.225	False
+great selection of salads and pasta items in the deli .	0.203	False
+nothing but excellent customer service every time i come here .	0.205	False
+okay prices and great tastings at least once a month .	0.250	False
+the two gentle men up front are always so kind .	0.198	False
+everyone who works there is always so happy and friendly .	0.214	False
+the firecracker shrimp and duck is also always a winner .	0.248	False
+best breakfast i had on my recent trip to scottsdale .	0.200	False
+thank you fiesta , lunch with you is always good .	0.198	False
+it 's a much better option than the club scene .	0.229	False
+totally will come back next time i 'm in town .	0.254	False
+this course is one of the finest in the area .	0.184	False
+i enjoy coming here for lunch to get the slices .	0.175	False
+it is a half a day trip from phoenix area .	0.242	False
+it was pretty inexpensive and they played good music videos .	0.221	False
+i just returned from a delightful stay at the camelback .	0.181	False
+every time i crave mexican food , i go here !	0.335	False
+travel all around the world and know indian food well .	0.246	False
+, to name a few shows we have seen here .	0.220	False
+enjoy taking my family here always the freshest sea food .	0.218	False
+this is the best yarn store in the metro area .	0.208	False
+the art in the alley behind it is cool too !	0.323	False
+this place is wonderful when you can actually sit outside .	0.233	False
+tried their lasagna and its the best ive ever had .	0.222	False
+she was absolutely fantastic and i love what she did !	0.359	False
+the happy hour crowd here can be fun on occasion .	0.235	False
+he is very thorough and genuinely cares for his customers .	0.211	False
+i was a walk in and got helped right away !	0.350	False
+i got my car detailed here and it looked amazing !	0.332	False
+now the food , drinks , and desserts are amazing .	0.231	False
+fun and inexpensive way to enjoy and relax your day .	0.213	False
+this is one place in scottsdale casual dress is acceptable .	0.234	False
+there chips are ok , but their salsa is really bland .	0.146	True
+the wine was very average and the food was even less .	0.232	True
+my pad thai tasted like thai rice noodles with barbeque sauce .	0.239	True
+moving past the shape , they were dry and truly tasteless .	0.221	True
+they tried to take advantage of me because i am young .	0.240	True
+always rude in their tone and always have shitty customer service !	0.266	True
+this was my first stop in looking for a wedding dress .	0.240	True
+do n't go here unless you want to pay for crap .	0.239	True
+there are better happy hours and better beers all around mill !	0.381	True
+i know i should have sent this back and walk out .	0.221	True
+needless to say i will not be back for mexican food .	0.204	True
+but this place was not economical so the expectation was different .	0.200	True
+only now i 'm really hungry , and really pissed off .	0.178	True
+just went back to get the rear tire sealed and filled .	0.214	True
+i did n't know worker there can get tips from customer .	0.244	True
+they also have lost sight of what good deli food is .	0.237	True
+my toddler found a dead mouse under one of the seats .	0.196	True
+furthermore , there is no sausage or bacon on the menu .	0.166	True
+when the manager finally showed up he was rude and dismissive !	0.323	True
+lastly but not least , their brownie desert was ... meh .	0.200	True
+one broken thing after another they do n't care to address .	0.206	True
+we stood there in shock , because we never expected this .	0.239	True
+there is a reason they can get you in fairly quickly .	0.246	True
+in the long run , they did absolutely nothing for me .	0.214	True
+if you travel a lot do not stay at this hotel .	0.219	True
+dropped off my red purse and three pair of black shoes .	0.251	True
+service fair , pace was bad between courses - long waits .	0.228	True
+i was not impressed , and would not recommend this place .	0.184	True
+my wife came in for alterations and was treated quite rudely .	0.231	True
+i ordered a cesar salad with a side of blackened chicken .	0.244	True
+i emailed to let them know but they apparently dont care .	0.226	True
+i have not received such an attitude toward a customer before .	0.222	True
+too bad it was at the expense of the other customers .	0.219	True
+no wonder these restaurants are closing up all around the valley .	0.201	True
+this place is dirty and run down and the service stinks !	0.272	True
+the only thing we received that was hot was the coffee .	0.191	True
+hopefully , i do n't take any bed bugs with me .	0.239	True
+the food is n't too bad but the service is terrible .	0.145	True
+it tasted like melted plastic and had the same tough consistency .	0.217	True
+this was the first time i ever cried from a haircut .	0.241	True
+this is the third time they 've messed up that spice .	0.222	True
+this piece of shit gave me wonton crackers for my soup .	0.221	True
+you are not the only place in town with decent pizza .	0.210	True
+let me tell you , this place was far from busy !	0.362	True
+did n't feel like dealing with the restaurants closer to asu .	0.203	True
+i said it was disgusting to even serve this to diners .	0.203	True
+it 's not my fave , but it 's not awful .	0.131	True
+um , yah , it does n't need replacing just yet .	0.198	True
+but unfortunately the rude woman was the one checking us out .	0.204	True
+i refused to purchase any of the pictures based on quality .	0.242	True
+simply , there are far superior places to go for sushi .	0.229	True
+i guess starbucks customer services is only good at some locations .	0.234	True
+`` no , we are going to have a tournament tomorrow .	0.218	True
+it 's small yet they make you feel right at home .	0.244	False
+this golf club is one of the best in my opinion .	0.213	False
+the most important thing , of course , is the food .	0.180	False
+a great stop if you want nice things at a steal .	0.253	False
+i also love their convenient location right off of scottsdale road .	0.249	False
+produce is very reasonably priced and great selection of organic produce .	0.237	False
+this place has been making great sushi and sashimi for years .	0.223	False
+the owner replied , i will go in half with you .	0.236	False
+brittany gave me a very new haircut and transformed me completely .	0.189	False
+also the crab wontons rule along with the spicy plum sauce .	0.216	False
+one of my favorite places to go for a great steak .	0.249	False
+she kept our drinks full and gave us great food recommendations .	0.256	False
+pool tables and inexpensive drinks make this a fun night out !	0.378	False
+nothing but happy thoughts from anyone i have sent their way !	0.332	False
+stopped in for lunch , nice wine list , good service .	0.160	False
+we ate here yesterday for happy hour and it was fantastic .	0.237	False
+they were great , not too greasy but fluffy and light .	0.220	False
+grimaldi 's is the most consistently amazing pizza place in arizona .	0.225	False
+i also get dessert here when i have a sweet tooth .	0.250	False
+service was great as they continued to check on our table .	0.245	False
+awesome and fast service , these guys really know their stuff .	0.195	False
+absolutely hands down the best dentist office in the east valley !	0.329	False
+it can be pricey , but it is really worth it .	0.162	False
+i ordered the carne asada steak and it was cooked perfectly !	0.345	False
+it is very very family oriented and we loved that too !	0.290	False
+she did an amazing job on my color and my cut !	0.314	False
+the owner is a hoot and the facility is very accommodating .	0.158	False
+we recommend imports & american auto service to everyone we know .	0.233	False
+had the normal gyro sandwich with their sauce ... very good .	0.123	False
+place was clean and well kept , drinks were reasonably priced .	0.248	False
+they also found my apartment which is pretty hard to find .	0.216	False
+they bring it out front for you and are very helpful .	0.169	False
+the woman who helped me today was very friendly and knowledgeable .	0.193	False
+the sushi here is great and i love the cucumber salad .	0.216	False
+plus he has amazing prices , how could you not go ?	0.325	False
+they are super friendly , very helpful , and amazingly quick !	0.303	False
+got screwed at bar that we made reservations at next door .	0.231	False
+had a blast and the food at their restaurant was excellent !	0.329	False
+this is a fantastic location , especially because of teresa m !	0.374	False
+there is definitely not enough room in that part of the venue .	0.183	True
+she said she 'd be back and disappeared for a few minutes .	0.252	True
+it is n't terrible , but it is n't very good either .	0.177	True
+we sit down and we got some really slow and lazy service .	0.140	True
+there was no i 'm sorry or how did everything come out .	0.181	True
+the burgers were over cooked to the point the meat was crunchy .	0.217	True
+they really need to work on their customer service and general attitude .	0.209	True
+my `` hot '' sub was cold and the meat was watery .	0.220	True
+i guess she was n't happy that we were asking the prices .	0.185	True
+the food was pretty bad , i would not go there again .	0.191	True
+stopped by for soda after being at the hobby shop next door .	0.217	True
+my dish was pretty salty and could barely taste the garlic crab .	0.219	True
+his offer of a `` free dessert '' was even more atrocious .	0.245	True
+i expected service to be slow that morning , and it was .	0.225	True
+overcooked so badly that it was the consistency of canned tuna fish .	0.233	True
+the food was so-so and very over priced for what you get .	0.212	True
+this is the worst walmart neighborhood market out of any of them .	0.215	True
+the office also failed to even apologize about this whole horrific experience .	0.238	True
+if your patio is south facing , you 're out of luck .	0.207	True
+plus the dude did n't even know how to work the computer .	0.166	True
+it was so odd , i asked her if she was joking ?	0.435	True
+food was cold ( still frozen ) , i had the ribs .	0.174	True
+they only received one star because you have to provide a rating .	0.228	True
+food was alright maybe we should have ordered off the mexican menu .	0.222	True
+we gave it another 5-10 minutes before we got up and left .	0.226	True
+even the ice cream was very , very run of the mill .	0.187	True
+they charged me for work not done , and parts not installed .	0.160	True
+for the record i am a good cook , i use seasoning !	0.352	True
+found the place even though it is hard due to bad signage .	0.190	True
+he did n't even offer another time for me to come in .	0.221	True
+finally , the cheese crisp was tiny and was anything but crisp .	0.228	True
+the pizza is offered without toppings and it 's lacking in flavor .	0.244	True
+needless to say , i contacted the store manager directly after leaving .	0.220	True
+and the food is simply not as good as the other locations .	0.194	True
+yes , the portions were large , but size is n't everything .	0.220	True
+and the pizza was cold , greasy , and generally quite awful .	0.188	True
+geez i need to find a source for those uni blocks ... .	0.176	True
+the others ordered the short rib hash , also over-cooked and dry .	0.241	True
+it did n't matter of she is good at all other times .	0.252	True
+they failed to tell us eating in the bar was an option .	0.251	True
+went to the sunday brunch to celebrate our daughter 's college graduation .	0.221	True
+the game room is a waste of time , energy and money .	0.236	True
+i also told him i would leave him some good feedback online .	0.229	True
+the rice was cold and hard and the taste was very bland .	0.152	True
+do not go here if you are interested in eating good food .	0.216	True
+the birthday surprise has been ruined as well as her special day .	0.223	True
+the only item was able to eat was the soggy broccoli beef !	0.325	True
+the falafel 's looked like chicken nuggets , and were lacking flavor .	0.232	True
+i do not like to be screwed over , or short changed .	0.223	True
+the food was low quality and thrown together quickly with little flavor .	0.209	True
+will never go back to kfc - they essentially stole from me !	0.353	True
+if i had wanted it washed i would have washed it myself !	0.345	True
+they rush , rush and do n't pay attention to their customers .	0.225	True
+since their visit , the only scorpions we 've seen were dead !	0.299	True
+this location is super busy and really could use double the staff .	0.179	True
+three women met for lunch last friday at elements at the sanctuary .	0.188	True
+i was nervous and she made me feel so comfortable and welcome .	0.212	False
+i 'm so happy and will definitely go back for future services .	0.229	False
+the calzones are awesome and the lunch special they have is perfect .	0.218	False
+certainly a good choice if going to a performing arts center event .	0.249	False
+the color that she uses on my girlfriend 's hair looks great .	0.230	False
+we dropped our rental truck of at this location two weeks ago .	0.237	False
+this resort has been in scottsdale forever and it truly knows service .	0.166	False
+i have gotten so many dresses at a steal of a price !	0.372	False
+nice wine list at 2x retail rather than the more typical 3x .	0.225	False
+definitely a must do if you have time in the phoenix area .	0.221	False
+the eggs are always fluffy , the side of fruit always good .	0.211	False
+i reccomend the drunken dragon noodles ( for you spicy lovers ! )	0.330	False
+my father has decided to upgrade my mothers engagement ring this xmas .	0.238	False
+came here to get breakfast and that was the best decision yet .	0.223	False
+nice for me to go and work and have a great breakfast !	0.357	False
+our bartender erik took care of my fiance and i very well .	0.165	False
+i had the burger once and it was juicy and very flavorful !	0.254	False
+the service was excellent and my hostess was very nice and helpful .	0.209	False
+thorough , reasonably priced and they answer the phone when called promptly .	0.237	False
+the staff are all super friendly and on top of there jobs .	0.240	False
+super tasty and a much better deal than the chain sub joints .	0.228	False
+i 've been here several times and every time has been great .	0.255	False
+it is such a cool little place to relax and get swanky .	0.214	False
+took home the most delicious white pizza since living here in az .	0.226	False
+after eating several other gyro place kings still has the best sauce .	0.221	False
+great food , great service , their catering can not be beat .	0.189	False
+family owned little and i mean little restaurant with absolutely amazing food .	0.245	False
+and i had my sugar bowl favorite , the top hat sundae !	0.333	False
+great food , low prices , and an authentic mexican cantina vibe .	0.261	False
+myself and family / friends have been going to them for years !	0.344	False
+one of best veal dishes i 've ever had and reasonable prices .	0.219	False
+the food was good , steak bites and hummus plate a must .	0.258	False
+it was so delicious ; i 've never had anything like it !	0.309	False
+the service was great , food delicious , and the value impeccable .	0.205	False
+if you are looking to walk out transformed this is your place !	0.326	False
+but being a tucson native this place brought nostalgia via my tastebuds .	0.192	False
+i have had a great experience every time from start to finish .	0.226	False
+all had that satisfying grease flavor that washed down well with beers .	0.225	False
+it is a cool place , with lots to see and try .	0.228	False
+i had to box it up even , such a huge portion .	0.175	False
+and i get the gyro sandwich every time and its the best .	0.160	False
+i highly recommend this salon and the wonderfully talented stylist , angel .	0.216	False
+i also like the fact that they have fresh squeezed orange juice .	0.222	False
+ever since joes has changed hands it 's just gotten worse and worse .	0.228	True
+new owner , i heard - but i do n't know the details .	0.191	True
+anyway , we got our coffee and will not return to this location .	0.198	True
+i just received a delivery order from them and essentially wasted my money .	0.205	True
+i was n't going to let her do a thing further to me .	0.206	True
+when i first came to phx ... yes this sounded indian to me .	0.208	True
+had one mediocre meal and said , `` we 'll try again '' .	0.238	True
+i was also curious about another product but he straight up walked off .	0.241	True
+safeway has officially lost my business to sprouts , & fresh & easy .	0.217	True
+it looks like blended up chicken put into the shape of grilled pieces .	0.223	True
+let me give my opinion , that 's what this site is for .	0.209	True
+i had to leave a message , and they never called me back .	0.232	True
+the food is worse than you find in the freezer section at walmart .	0.247	True
+they tried real hard to get me to come back but i refused .	0.222	True
+i wanted to like this place but it just became a big disappointment .	0.190	True
+the fried rice was gross and there was a shit load of it .	0.213	True
+overall : lost my business and recommendation for a good local camera place .	0.206	True
+it shows because on a saturday night there was n't a long wait .	0.243	True
+um ... we just told him that we did n't want to finance .	0.201	True
+always takes way too long even if you 're the only one there .	0.233	True
+so , that was my one and only time ordering the benedict there .	0.226	True
+one of the employees apologized , but it did n't seem very sincere .	0.162	True
+i would rather wait for hot food than have it cold and soggy .	0.235	True
+french toast plate was good , mom said , but eggs were cold .	0.237	True
+this is easily the worst greek food i 've had in my life .	0.194	True
+i checked online , and the coupon site said my certificate was good .	0.186	True
+parking : no signs or anything , so you just have to guess .	0.159	True
+however , it turned out to be nothing like i thought it would .	0.210	True
+i had a horrible experience , and i sadly would not come back .	0.193	True
+what were you going to charge me when i purchase a dozen bagels ?	0.457	True
+the beer is n't bad , but the food was less than desirable .	0.225	True
+i acknowledged this and he went back to take care of the bill .	0.194	True
+if i was n't with my coworker , i would 've walked out .	0.224	True
+it was so much not good that i just wanted out of there .	0.191	True
+we told them to forget it , we did n't want to wait .	0.219	True
+now it is not so thin and taste like any other pizza place .	0.194	True
+it 's not much like an actual irish pub , which is depressing .	0.220	True
+took my suite to get fitted and a new button put on it .	0.205	True
+no , not the ones at asu , the ones in junior high .	0.197	True
+great place to hang out , grab a meal and a few brews !	0.364	False
+first time i came in , i knew i just wanted something new .	0.222	False
+we went with a group of eight and all had a great time .	0.248	False
+they have the big massage chairs and each manicure station is fairly clean .	0.208	False
+you have to sit outside to get the best experience from this place .	0.232	False
+this adds the last little touch to what was already an amazing place .	0.233	False
+sometimes it 's a simple cut , other times is more complicated color .	0.237	False
+this is a rare gem and i am excited to have found it .	0.208	False
+i love that this is the place in the comic - family circus .	0.221	False
+i love the outside seating and the reverse happy hour is incredibly affordable .	0.206	False
+nice club good layout the course was in good to above average shape .	0.218	False
+the food is good and from what i can tell is rather authentic .	0.215	False
+while the menu is simple , what it does offer is truly first-rate .	0.219	False
+tonight though i ordered to go and the food was just as good .	0.172	False
+this place is a must go if you 're a bride to be !	0.334	False
+try anything on the menu and you will be glad you came in !	0.332	False
+he always looks gorgeous and is so happy when i pick him up !	0.336	False
+when we get into town , this is the first place we come !	0.328	False
+the service was top notch and the food was a bit of heaven .	0.251	False
+by far the best experience i have ever had in a auto shop .	0.234	False
+the good news that my vision had improved made the visit even better .	0.213	False
+the girls are very attractive and really friendly , not pushy at all .	0.177	False
+the employees always remember me and my dog , which is very nice .	0.164	False
+it 's located in a great part of scottsdale and was really accommodating .	0.174	False
+super friendly staff , quick service and amazing and simple food done right !	0.325	False
+great prices and the associates there are all very customer friendly and helpful !	0.298	False
+it 's a whole new experience and new flavors each time you go .	0.256	False
+they 've added some new items on the menu since my last visit .	0.223	False
+great place to go for games with multiple tvs and a lively crowd .	0.239	False
+pei wei has fair prices , fast service , and wonderful outdoor seating .	0.220	False
+she chose a great color that looks incredible with my skin , too .	0.230	False
+fun place to catch a game on tv and catch up w/ people .	0.243	False
+well the food was great and the price of it was even better .	0.235	False
+fantastic place to see a show as every seat is a great seat !	0.350	False
+if you sit in the bar they have the best bartender in town .	0.243	False
+the adovada is hot but wonderful and the chocolate bread pudding is amazing .	0.226	False
+their steak & salsa burrito was very very good and really big too .	0.173	False
+said we could n't sit at the table if we were n't ordering dinner .	0.224	True
+the cash register area was empty and no one was watching the store front .	0.201	True
+when i complained in a polite way , i was walked out the door .	0.184	True
+all she did was give me the run around and lied and bs everything .	0.224	True
+the beans were in the burro in the rice was nowhere to be found .	0.213	True
+we 've sent enough guests there who have returned absolutely livid with this restaurant .	0.228	True
+the food 's ok , the service is among the worst i have encountered .	0.213	True
+the rooms are not that nice and the food is not that good either .	0.187	True
+i will not revisit this course as a visitor with limited time to play .	0.196	True
+i was so disgusted i could not way for the rest of the day .	0.174	True
+even if i was insanely drunk , i could n't force this pizza down .	0.244	True
+as an arizona native , i have been going to the improv for years .	0.215	True
+i got there , was seated pretty quickly , and then chose my color .	0.214	True
+so , no treatment and no medication to help me deal with my condition .	0.167	True
+only then did our waitress show up with another styrofoam cup full of water .	0.238	True
+i hate to see what their delivery times are when it 's last call .	0.238	True
+the security guard comes upstairs and pounds on our door demanding we open up .	0.239	True
+when she did n't answer him quickly enough , he hung up on her .	0.245	True
+the food was mediocre at best , far too greasy and not cooked well .	0.188	True
+also , the food that is there is n't great even by buffet standards .	0.233	True
+the rest of their food is edible but their employees and service are horrible .	0.185	True
+i 'm from the bay area and this was a disappointment and over priced .	0.223	True
+my mom ordered the teriyaki chicken bento box and i ordered the sashimi box .	0.220	True
+my plate looked nearly half empty except for the small container of cole slaw .	0.233	True
+wendy 's has been know to be cheap with their drink refills for years .	0.228	True
+i 've eaten here many times , but none as bad as last night .	0.217	True
+chicken fried chicken was dry but the green chili macaroni and cheese was good .	0.194	True
+very crowded , difficult to have a chance to actually have a good time .	0.229	True
+20-30 % capacity at most , i was the only one in the pool .	0.198	True
+had it not been so terribly hot , it would have just been inconvenient .	0.195	True
+she did offer me a copy if i would like a soda while waiting .	0.251	True
+we 'll see if that happens , but i 'm not holding my breath .	0.182	True
+this woman should not be in the service industry in az with that attitude .	0.191	True
+service was average but could not make up for the poor food and drink .	0.197	True
+my husband had to walk up to the bar to place our wine order .	0.231	True
+it was embarrassing for all involved , though i do n't think he noticed .	0.245	True
+so i ordered my tires online , scheduled an appointment for two days out .	0.232	True
+one was for my dog , and one was for my wife 's dog .	0.241	True
+i 'm sure they must get it right some days but not this day .	0.183	True
+however , the manager came back & told me my order was coming up .	0.225	True
+next dish was moo goo gai pan to which the sauce is the secret .	0.176	True
+safe to say we will be going to other walgreens locations from now on .	0.255	True
+i may make it back to the bar but i will skip the restaurant .	0.176	True
+included in this price was a credit card fee and an after midnight fee .	0.250	True
+other than that , i really do n't know what was good about it .	0.198	True
+my services were very rushed and she did n't even do a good job .	0.215	True
+we then placed our order with our extremely rude and apparently completely overwhelmed server .	0.221	True
+sadly , i will probably never be able to eat at this place again .	0.227	True
+in turn my legs are burnt from the noodles and all over the floor .	0.187	True
+we asked how long the wait would be , she said she was unsure .	0.226	True
+also , could they not bring a single pack of cheese or red peppers ?	0.387	True
+we went there on a busy holiday weekend and the service was extremely slow .	0.157	True
+if i was the manager , i 'd fire that kid on the spot .	0.186	True
+needless to say , i will not be returning to this place ever again .	0.194	True
+built in cabinets in kitchen and bathroom along with sink are not kept up .	0.200	True
+that person didnt get their meal until everyone else was finished with their meal .	0.238	True
+the place is small , i 'm sure she could have figured it out .	0.219	True
+so one person would eat while everyone else was sitting and waiting for theirs .	0.229	True
+when i picked up the order , i was given another totally different price .	0.235	True
+steve was professional and found exactly the right unit to fit in our space .	0.246	False
+this is a place where still the customer comes first and is treated right .	0.216	False
+their pizza is the best i have ever had as well as their ranch !	0.287	False
+you will be helped by all of their friendly advise , and travel knowledge !	0.350	False
+i spent time with my best buds and enjoyed some excellent wine and food .	0.247	False
+the staff is awesome and location is right in the heart of old town !	0.355	False
+the flourless chocolate cake was one of the best desserts i 've ever had .	0.224	False
+we loved our day on the river and ca n't wait to go back !	0.334	False
+if you 're young and are into sports this is the place for you .	0.204	False
+loved the burgers , i had the jalapeo ranch burger it was really tasty .	0.168	False
+they made me feel like i was at home and their an extended family !	0.370	False
+also , we were pleasantly surprised last time we brought our dogs for shots .	0.252	False
+you can come in , spend any amount of money and enjoy something amazing .	0.240	False
+the salsa was fantastic although next time i will ask for a hotter one .	0.249	False
+the bartender was super friendly and quick to help us especially with the crowd .	0.178	False
+nice menu , good prices , great service - for both dinner and breakfast !	0.335	False
+the salsa is great , the fish top notch , the drinks just excellent .	0.189	False
+i like this place so much i have actually inquired about purchasing a franchise .	0.228	False
+the bread is definitely home made and i could probably eat it all day .	0.231	False
+the portions were huge , the food came out hot , fresh and good .	0.187	False
+a bit on the noisy side but the fresh food makes up for it .	0.202	False
+always a great experience there with the owner and the rest of the team .	0.189	False
+this is a golf course that is tucked away it is in great condition .	0.240	False
+the best part of my thanksgiving dinner by far was sweet cakes pecan pie .	0.238	False
+it 's basic , traditional , mexican food that is homemade and tastes great .	0.228	False
+the environment was cozy , the servers were friendly and on top of things .	0.241	False
+every person enjoyed themselves and there was nothing but praise from our entire group .	0.237	False
+if you 're into that sort of thing stop by and check it out !	0.353	False
+coupon or not , this place is extra nice and a very good value .	0.186	False
+i just had probably one of the best restaurant experiences i 've ever had .	0.223	False
+as far as pizza goes this ranks with the best i 've ever eaten .	0.223	False
+we were sat right away and every staff member was extremely friendly and happy .	0.198	False
+the margaritas were also tasted and the churros with ice cream was also outstanding .	0.227	False
+this cute little pizza , salad and pasta place in east chandler is great .	0.218	False
+a great little spot to throw back a few beers after a rough day .	0.240	False
+i took the waiter 's recommendation of the veal carolina and it was super !	0.323	False
+i can honestly say i am so glad we will be moving to az .	0.208	False
+you get so much for the price and the food is fresh and delicious .	0.205	False
